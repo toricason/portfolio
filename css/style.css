@@ -1,0 +1,21 @@
+.jumbotron {
+    background-color:ghostwhite
+}
+
+h1 {
+    font-family: 'Cherry Bomb One', cursive;
+    font-size: 60px;
+}
+
+.btn-group-vertical {
+    margin: 10px;
+}
+
+button, .menu {
+    margin: 10px;
+    margin-left: 75px;
+}
+
+.card-header {
+    margin: 0;
+}
